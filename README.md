@@ -4,5 +4,5 @@
 <br>
 
 <div id="header" align=center>
-  <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/tux.gif" width=100/>
+  <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/tux.gif" width=50/>
 </div>
