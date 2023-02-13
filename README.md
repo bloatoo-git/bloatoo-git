@@ -4,12 +4,5 @@
 <br>
 
 <div id="header">
-  <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/tux.gif" width=100/>
+  <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/tux.gif" width=100 text-align=center/>
 </div>
-
-
-<stlye>
-  #header img {
-    text-align:center
-  }
-</script>
