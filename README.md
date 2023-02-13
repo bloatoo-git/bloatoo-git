@@ -8,5 +8,8 @@
 </div>
 
 
-
-
+<stlye>
+  #header img {
+    text-align:center
+  }
+</script>
