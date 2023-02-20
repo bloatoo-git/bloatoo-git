@@ -3,10 +3,14 @@
 
 <br>
 
-<div id="header" align=center>
+<div align=center>
   <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/tux.gif" width="100"/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloatoo-git&show_icons=true&theme=highcontrast)
 </div>
 
-[a link](https://coffee-clicker-react.web.app/)
+<br>
+
+<div align="center">
+  [Coffee Clicker](https://coffee-clicker-react.web.app/)
+</div>
