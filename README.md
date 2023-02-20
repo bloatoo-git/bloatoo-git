@@ -10,13 +10,13 @@
 </div>
 
 <br>
+<br>
 
-
-## Try my small React game
 <div align="center">
+  <h1>Try my small React game</h1>
   <a href="https://coffee-clicker-react.web.app/">
     <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png" width="300"/>
   </a>
-  <p>Small project for trying out React, might still have a few bugs.</p>
+  <p>(Project was for learning, might still have some bugs)</p>
 </div>
 
