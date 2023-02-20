@@ -1,5 +1,5 @@
 # bloatoo-git
-![](https://komarev.com/ghpvc/?username=bloatoo-git&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=bloatoo-git&color=red)
 
 <br>
 
