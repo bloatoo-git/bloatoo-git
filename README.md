@@ -17,6 +17,6 @@
   <a href="https://coffee-clicker-react.web.app/">
     <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png" width="300"/>
   </a>
-  <p>(Project was for learning, might still have some bugs)</p>
+  <p style="font-size: 11px;">(Project was for learning, might still have some bugs)</p>
 </div>
 
