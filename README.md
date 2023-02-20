@@ -12,3 +12,8 @@
 <br>
 
 
+## Try Coffee Clicker
+
+![App Screenshot](https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png)
+
+Small project for trying out React, might still have a few bugs.
