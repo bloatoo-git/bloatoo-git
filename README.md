@@ -14,6 +14,6 @@
 
 ## Try Coffee Clicker
 
-![App Screenshot](https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png)
+[!App Screenshot (https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png)](https://coffee-clicker-react.web.app/)
 
 Small project for trying out React, might still have a few bugs.
