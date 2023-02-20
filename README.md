@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h1>Try my small React game</h1>
+  <h3>Try my small React game</h3>
   <a href="https://coffee-clicker-react.web.app/">
     <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png" width="300"/>
   </a>
