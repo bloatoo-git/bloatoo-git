@@ -15,7 +15,7 @@
 ## Try my small React game
 <div align="center">
   <a href="https://coffee-clicker-react.web.app/">
-    <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png" width="100"/>
+    <img src="https://github.com/bloatoo-git/bloatoo-git/blob/main/coffee_clicker.png" width="300"/>
   </a>
   <p>Small project for trying out React, might still have a few bugs.</p>
 </div>
