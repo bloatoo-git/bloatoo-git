@@ -12,5 +12,5 @@
 <br>
 
 <div align="center">
-  [link a](https://coffee-clicker-react.web.app/)
+  ![link a](https://coffee-clicker-react.web.app/)
 </div>
